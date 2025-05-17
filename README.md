@@ -11,4 +11,5 @@ Yashaswini B : PES2UG24EC130
 
 Vivian Sobers E : PES2UG24CS600
 
+
 **To run software** : gcc data.h input.c total.c credit_debit.c expenses.c income.c tax.c advice.c  
